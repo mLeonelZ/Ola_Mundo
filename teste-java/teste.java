@@ -24,8 +24,6 @@ public class teste {
 				System.out.println(i + " * " + j + " = " + i*j);
 			}
 		}
-
-		// pipipi popopo
 	}
 
 }
